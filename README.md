@@ -1,1 +1,1 @@
-# Aplicativo React Native para Ifood de produtos
+# Aplicativo React Native para Cesta de produtos
