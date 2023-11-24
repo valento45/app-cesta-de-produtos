@@ -3,10 +3,11 @@
 
 
 
-# Conceitos
-* FlatList
-* ReactNative
-* 
+- Conceitos
+  * FlatList
+  * ReactNative
+  * Typescript
+  * Componentização
 
 
 
