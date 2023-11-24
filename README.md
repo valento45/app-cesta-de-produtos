@@ -3,10 +3,9 @@
 
 
 
-- Conceitos
-  * FlatList
+- Tecnologias    
   * ReactNative
-  * Typescript
+  * Expo
   * Componentização
 
 
