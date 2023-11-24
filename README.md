@@ -1,4 +1,4 @@
-# Aplicativo React Native para Cesta de produtos
+# App Cesta de Produtos
 
 
 
