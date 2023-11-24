@@ -1,7 +1,9 @@
 # Aplicativo React Native para Cesta de produtos
 
 
-#Conceitos
+# Implementado em React Native "Cesta de produtos"
+
+# Conceitos
 * FlatList
 * ReactNative
 * 
